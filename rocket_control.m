@@ -29,4 +29,3 @@ for s = 1:length(scenarios)
     ylabel('y')
     title(['Rocket Trajectory - Scenario ', scenarios{s}])
 end
-
